@@ -1,0 +1,7 @@
+pygments
+hy
+numpy
+matplotlib
+hymagic
+jupyter
+cytoolz
