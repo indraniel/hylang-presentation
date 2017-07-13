@@ -1,5 +1,5 @@
 ; maths.hy
-(require hy.contrib.loop)
+(require [hy.contrib.loop [loop]])
 
 (defn square [x]
   "Square a number given x"
