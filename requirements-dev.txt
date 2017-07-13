@@ -1,4 +1,5 @@
 pygments
+clint
 hy
 numpy
 matplotlib
